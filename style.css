@@ -6,12 +6,12 @@ canvas {
   display: block;
 }
 
-iframe{
+iframe {
   border: none;
   display: block;
 }
 
-p{
-  border: flex;
+p {
+  display: flex;
   justify-content: center;
 }
