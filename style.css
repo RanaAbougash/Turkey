@@ -1,7 +1,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: black;
+  background-color: "#FBF5E0";
+  color:"#3A2E03"
   text-align: center;
 }
 canvas {
