@@ -13,12 +13,13 @@ iframe {
   display: block;
 }
 
+p.a {
+  color: rgb(56,45,7);
+  padding-left: 100px;
+  padding-right: 50px;
+}
+
 p {
   display: flex;
   justify-content: center;
-}
-
- p.a {
-      color: rgb(56,45,7);
-      margin: 50px;
 }
