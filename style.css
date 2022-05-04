@@ -1,8 +1,7 @@
 html, body {
   margin: 0;
-  padding: 50px;
-  background-color: rgb(249, 241, 214);
-  color:rgb(56, 45, 7);
+  padding: 0;
+  background:rgb(249, 241, 214);
   text-align: center;
 }
 canvas {
