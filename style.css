@@ -15,9 +15,9 @@ iframe{
 p.a{
   text-align: center; 
   color:rgb(162,146,100);
-  padding-left: 200px;
-  padding-right: 200px;
-  padding-top: 50px;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 30px;
   padding-bottom:50px;
 }
 
@@ -27,7 +27,7 @@ h1{
   padding-top: 50px;
 }
 
-h2{
+h3{
   text-align: center;
   color: rgb(122,110,75)
 }
