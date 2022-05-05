@@ -23,7 +23,8 @@ p.a{
 
 h1{
   text-align: center; 
-  color: rgb(61,55,38)
+  color: rgb(61,55,38);
+  padding-top: 50px;
 }
 
 h2{
