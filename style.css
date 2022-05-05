@@ -14,15 +14,15 @@ iframe {
 }
 
 p.a {
-  color: rgb(56,45,7);
-  padding-left: 100px;
-  padding-right: 50px;
-  padding-top: 20px;
-  padding-bottom: 100px;
+  color: rgb(104, 83, 25);
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 10px;
+  padding-bottom: 50px;
 }
 
 h1 {
-  color: rgb(62, 50, 5);
+  color: rgb(56,45,7);
 }
 
 p {
