@@ -15,8 +15,8 @@ iframe {
 
 p.a {
   color: rgb(162, 146, 100);
-  padding-left: 200px;
-  padding-right:500px;
+  padding-left: 0px;
+  padding-right:300px;
   padding-top: 10px;
   padding-bottom: 50px;
 }
