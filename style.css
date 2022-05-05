@@ -1,31 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background:rgb(249, 241, 214);
-  text-align: center;
 }
 canvas {
   display: block;
-}
-
-iframe {
-  border: none;
-  display: block;
-}
-
-p.a {
-  color: rgb(162, 146, 100);
-  padding-left: 100px;
-  padding-right:200px;
-  padding-top: 10px;
-  padding-bottom: 50px;
-}
-
-h1 {
-  color: rgb(61, 55, 38);
-}
-
-p {
-  display: flex;
-  justify-content: center;
 }
